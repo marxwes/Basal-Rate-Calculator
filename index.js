@@ -3,7 +3,7 @@ const csv = require("csv-parser");
 
 const hourlyData = {};
 
-const filePath = "";
+const filePath = "./assets/date10.csv"; // Change the filepath to your data set
 
 fs.createReadStream(filePath)
 	.pipe(
