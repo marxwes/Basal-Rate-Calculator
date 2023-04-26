@@ -54,3 +54,11 @@ Please note that this script is provided for educational purposes only and shoul
 | 22:00-22:59 | 0.91                     | 59                      |
 | 23:00-23:59 | 0.74                     | 57                      |
 | Total       | 22.07                    |                         |
+
+#### Contributing
+
+Users are welcome to improve the script and contribute to the project. If you have any suggestions or improvements, feel free to submit a pull request or open an issue.
+
+#### Author
+
+This script was created by Marta Wesołowska.
