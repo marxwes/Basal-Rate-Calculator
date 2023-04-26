@@ -2,14 +2,16 @@
 
 This Node.js script reads in a CSV file containing insulin pump data and calculates the average bolus volume for each hour of the day. It also calculates the total bolus volume delivered during the selected period.
 
-I've created this script because I was struggling to set up my basal rate when punp was not on the Smart Guard mode, hovever the script hasn't been tested yet nor tried on different datasets than my own.
+The purpose of this script is to provide insights into insulin pump data to help users set up their basal rate. The creator of the script developed it because they were struggling to set up their basal rate when their pump was not on Smart Guard mode. However, it should be noted that the script has not been extensively tested and should be used for educational purposes only.
 
-## Please note that this script is provided for educational purposes only and should not be used to make any medical decisions without consulting a healthcare professional.
+## Disclaimer
+
+Please note that this script is provided for educational purposes only and should not be used to make any medical decisions without consulting a healthcare professional. Users of the script should consult a healthcare professional before making any changes to their insulin pump settings or their diabetes management plan.
 
 ### Prerequisites
 
-- Only for Medtronic 780G pump
-- Data from carelink website downloaded as .csv format (at the bottom of the page on the right)
+- Medtronic 780G pump
+- Data from the CareLink website downloaded as a CSV file format (found at the bottom of the page on the right)
 
 #### Installation
 
